@@ -22,7 +22,8 @@ const userRouter = require("./routes/user.js");
 
 // const MONGO_URL = "mongodb://127.0.0.1:27017/wanderlust";
 
-const MONGO_URL = "mongodb+srv://saurabh-kumar:Dzw8gwo4m7XwjRhw@cluster0.t5zvqwc.mongodb.net/"
+const MONGO_URL = "mongodb+srv://saurabhkumar6203026:O57EfgepOwgqo77F@cluster0.fwheaek.mongodb.net/majorProject?retryWrites=true&w=majority&appName=Cluster0"
+
 
 
 main()
